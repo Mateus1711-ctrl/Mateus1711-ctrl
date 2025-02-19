@@ -1,6 +1,6 @@
 ### Hello!
 ## About Me:
-👨‍💻 Name: Ricardo<br>🎓 Education: Computer Science @Insper<br>
+👨‍💻 Name: Mateus Porto<br>🎓 Education: Computer Science @Insper<br>
 
 
 ## 🌐 Socials:
